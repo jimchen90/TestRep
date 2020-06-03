@@ -1,4 +1,4 @@
-# Bass_biquad_test
+# Bass_biquad_filter_test
 This file is to test the bass biquad filter and compare coefficients and output waveforms with SoX and MATLAB audio toolbox.
 The result summary is shown in the beginning of notebook. More details can be seen in https://github.com/pytorch/audio/issues/676 and https://github.com/pytorch/audio/pull/661
 
