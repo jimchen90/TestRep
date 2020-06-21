@@ -10,3 +10,6 @@ This file is to implement a sox dependency reduction task for bass (with biquad)
 Its method can be based on the implementation of task for treble with biquad from 
 (https://github.com/pytorch/audio/blob/master/torchaudio/functional.py#L1025).
 Here we want to compare and test the result from sox and our bass_biquad function.
+
+# Stretch2d_function_test
+This file is to test the stretch2d function. Now the squeenze and unsqueenze operations can be avoided by using repeat_interleave.
